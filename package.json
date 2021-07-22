@@ -1,0 +1,15 @@
+{
+  "devDependencies": {
+    "tailwindcss": "^2.2.6",
+    "tailwindcss-debug-screens": "^2.0.0"
+  },
+  "dependencies": {
+    "autoprefixer": "^10.3.1",
+    "postcss": "^8.3.6",
+    "postcss-cli": "^8.3.1"
+  },
+  "scripts": {
+    "build": "postcss tailwind.css -o dist/styles.css",
+    "watch": "postcss tailwind.css -o dist/styles.css --watch"
+  }
+}
