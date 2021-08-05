@@ -14,16 +14,15 @@
         class="
           flex flex-col
           items-center
-          md:flex-row
           py-6
           w-4/6
-          2xl:pl-60
+          md:flex-row
           mx-auto
-          2xl:mx-0
+          2xl:pl-60 2xl:mx-0
         "
       >
         <img
-          src="./img/CTB-TradeLogo.png"
+          src="./images/CTB-TradeLogo.png"
           alt="logo"
           class="lg:mr-24 md:mr-12 pr-10 md:pr-0 pb-8 md:pb-0"
         />
@@ -121,7 +120,7 @@
     </header>
     <section id="banner-carousel" class="relative">
       <img
-        src="./img/bathroom-main.jpg"
+        src="./images/bathroom-main.png"
         alt="Homepage Banner"
         class="w-full h-96 object-cover"
       />
@@ -136,11 +135,11 @@
             items-center
           "
         >
-          <div class="flex items-center xl:w-1/2 h-full mr-10 xl:mr-0">
+          <div class="flex items-center h-full mr-10 xl:w-1/2 xl:mr-0">
             <div class="mr-10">
               <svg
                 xmlns="http://www.w3.org/2000/svg"
-                class="text-white bg-red-600 rounded-full p-3 h-12"
+                class="arrows"
                 fill="none"
                 viewBox="0 0 24 24"
                 stroke="currentColor"
@@ -155,27 +154,26 @@
             </div>
             <div
               class="
-                bg-bannerBox
-                text-white
-                h-2/4
-                w-auto
-                xl:w-8/12
-                p-4
-                xl:p-0
-                font-mainFont
-                text-center
                 flex flex-col
                 justify-center
+                text-center
+                font-mainFont
+                h-2/4
+                w-auto
+                p-4
+                bg-bannerBox
+                text-white
                 shadow
+                xl:w-8/12 xl:p-0
               "
             >
               <div
                 class="
+                  font-neue font-medium
                   pb-6
                   text-xl
                   md:text-2xl
                   lg:text-4xl
-                  font-neue font-medium
                 "
               >
                 <p>A bathroom for</p>
@@ -202,10 +200,10 @@
           </div>
 
           <div class="">
-            <span
-              ><svg
+            <span>
+              <svg
                 xmlns="http://www.w3.org/2000/svg"
-                class="text-white bg-red-600 rounded-full p-3 h-12"
+                class="arrows"
                 fill="none"
                 viewBox="0 0 24 24"
                 stroke="currentColor"
@@ -215,13 +213,71 @@
                   stroke-linejoin="round"
                   stroke-width="2"
                   d="M9 5l7 7-7 7"
-                /></svg
-            ></span>
+                />
+              </svg>
+            </span>
           </div>
         </div>
       </section>
     </section>
-    <section id="featured-ranges">Ranges section</section>
+    <section id="featured-ranges">
+      <h2 class="font-neue text-center p-8 text-4xl text-red-600 font-medium">
+        Clifton tiles & bathrooms
+      </h2>
+      <div
+        id="range-card-group"
+        class="flex flex-wrap w-2/3 mx-auto justify-center"
+      >
+        <div class="w-2/5 mx-8 relative mb-8">
+          <img
+            src="images/ranges/featured.png"
+            alt="featured bathroom image 1"
+            class="h-48 w-full object-cover"
+          />
+
+          <div class="range-cards">
+            <span class="border-b-2 border-red-600">Featured Range Name</span>
+          </div>
+          <div class="range-badge">New</div>
+        </div>
+        <div class="w-2/5 mx-8 relative mb-8">
+          <img
+            src="images/ranges/featured2.png"
+            alt="featured bathroom image 2"
+            class="h-48 w-full object-cover"
+          />
+
+          <span class="range-cards">
+            <span class="border-b-2 border-red-600">Featured Range Name</span>
+          </span>
+          <div class="range-badge">New</div>
+        </div>
+        <div class="w-2/5 mx-8 relative mb-8">
+          <img
+            src="images/ranges/summersale.png"
+            alt="Summer sale card image"
+            class="h-48 w-full object-cover"
+          />
+
+          <span class="range-cards">
+            <span class="border-b-2 border-red-600">Summer sale</span>
+          </span>
+          <div class="range-badge">Huge savings</div>
+        </div>
+        <div class="w-2/5 mx-8 relative mb-8">
+          <img
+            src="images/ranges/underfloor.png"
+            alt="underfloor heating image"
+            class="h-48 w-full object-cover"
+          />
+
+          <span class="range-cards">
+            <span class="border-b-2 border-red-600">Underfloor heating</span>
+          </span>
+          <div class="range-badge">Special offers</div>
+        </div>
+      </div>
+    </section>
     <section id="full-product-range">Product Range Section</section>
     <section id="home-measure">Home measure section</section>
     <section id="video">Full width video section</section>

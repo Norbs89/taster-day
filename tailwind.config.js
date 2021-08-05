@@ -12,6 +12,11 @@ module.exports = {
         headerBar: "#e7e7e7",
         barText: "#353535",
         bannerBox: "#8c8f91",
+        gradTop: "rgba(255, 255, 255, 0.1)",
+        badgeBg: "#ffcc00",
+      },
+      borderWidth: {
+        12: "12px",
       },
     },
     debugScreens: {
