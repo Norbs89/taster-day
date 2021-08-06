@@ -14,6 +14,7 @@ module.exports = {
         bannerBox: "#8c8f91",
         gradTop: "rgba(255, 255, 255, 0.1)",
         badgeBg: "#ffcc00",
+        fullRangeBg: "#e7e7e7",
       },
       borderWidth: {
         12: "12px",

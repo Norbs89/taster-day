@@ -38,4 +38,14 @@
     text-sm
     p-2;
   }
+
+  .full-range-card-text {
+    @apply bg-white
+    border-b-4 border-red-600
+    font-neue
+    text-center
+    p-1
+    font-bold
+    text-red-600;
+  }
 }

@@ -10,9 +10,14 @@ Given that the project is built with HTML only there are no re-usable components
 
 # Version History
 
+## Version 0.4.0
+
+- Full product range section is created & styled.
+- Assets for full product range section is uploaded.
+
 ## Version 0.3.0
 
-- Featured Ranges section is styled.
+- Featured Ranges section is created & styled.
 - Added correct assets to Banner section & Featured ranges section.
 
 ## Initial commit
