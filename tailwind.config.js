@@ -12,7 +12,7 @@ module.exports = {
         headerBar: "#e7e7e7",
         barText: "#353535",
         bannerBox: "#8c8f91",
-        gradTop: "rgba(255, 255, 255, 0.1)",
+        gradTop: "rgba(238, 236, 236, 0.3)",
         badgeBg: "#ffcc00",
         fullRangeBg: "#e7e7e7",
       },

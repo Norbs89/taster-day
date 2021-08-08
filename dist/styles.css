@@ -1,4 +1,4 @@
-@import url("https://fonts.googleapis.com/css2?family=Montserrat:wght@400;500;700&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Montserrat:wght@300;400;500;700&display=swap");
 
 /*! tailwindcss v2.2.6 | MIT License | https://tailwindcss.com */
 
@@ -12353,7 +12353,7 @@ video {
 }
 
 .divide-gradTop > :not([hidden]) ~ :not([hidden]){
-  border-color: rgba(255, 255, 255, 0.1);
+  border-color: rgba(238, 236, 236, 0.3);
 }
 
 .divide-badgeBg > :not([hidden]) ~ :not([hidden]){
@@ -13563,7 +13563,7 @@ video {
 }
 
 .border-gradTop{
-  border-color: rgba(255, 255, 255, 0.1);
+  border-color: rgba(238, 236, 236, 0.3);
 }
 
 .border-badgeBg{
@@ -14015,7 +14015,7 @@ video {
 }
 
 .group:hover .group-hover\:border-gradTop{
-  border-color: rgba(255, 255, 255, 0.1);
+  border-color: rgba(238, 236, 236, 0.3);
 }
 
 .group:hover .group-hover\:border-badgeBg{
@@ -14467,7 +14467,7 @@ video {
 }
 
 .focus-within\:border-gradTop:focus-within{
-  border-color: rgba(255, 255, 255, 0.1);
+  border-color: rgba(238, 236, 236, 0.3);
 }
 
 .focus-within\:border-badgeBg:focus-within{
@@ -14919,7 +14919,7 @@ video {
 }
 
 .hover\:border-gradTop:hover{
-  border-color: rgba(255, 255, 255, 0.1);
+  border-color: rgba(238, 236, 236, 0.3);
 }
 
 .hover\:border-badgeBg:hover{
@@ -15371,7 +15371,7 @@ video {
 }
 
 .focus\:border-gradTop:focus{
-  border-color: rgba(255, 255, 255, 0.1);
+  border-color: rgba(238, 236, 236, 0.3);
 }
 
 .focus\:border-badgeBg:focus{
@@ -16123,7 +16123,7 @@ video {
 }
 
 .bg-gradTop{
-  background-color: rgba(255, 255, 255, 0.1);
+  background-color: rgba(238, 236, 236, 0.3);
 }
 
 .bg-badgeBg{
@@ -16575,7 +16575,7 @@ video {
 }
 
 .group:hover .group-hover\:bg-gradTop{
-  background-color: rgba(255, 255, 255, 0.1);
+  background-color: rgba(238, 236, 236, 0.3);
 }
 
 .group:hover .group-hover\:bg-badgeBg{
@@ -17027,7 +17027,7 @@ video {
 }
 
 .focus-within\:bg-gradTop:focus-within{
-  background-color: rgba(255, 255, 255, 0.1);
+  background-color: rgba(238, 236, 236, 0.3);
 }
 
 .focus-within\:bg-badgeBg:focus-within{
@@ -17479,7 +17479,7 @@ video {
 }
 
 .hover\:bg-gradTop:hover{
-  background-color: rgba(255, 255, 255, 0.1);
+  background-color: rgba(238, 236, 236, 0.3);
 }
 
 .hover\:bg-badgeBg:hover{
@@ -17931,7 +17931,7 @@ video {
 }
 
 .focus\:bg-gradTop:focus{
-  background-color: rgba(255, 255, 255, 0.1);
+  background-color: rgba(238, 236, 236, 0.3);
 }
 
 .focus\:bg-badgeBg:focus{
@@ -18721,8 +18721,8 @@ video {
 }
 
 .from-gradTop{
-  --tw-gradient-from: rgba(255, 255, 255, 0.1);
-  --tw-gradient-stops: var(--tw-gradient-from), var(--tw-gradient-to, rgba(255, 255, 255, 0));
+  --tw-gradient-from: rgba(238, 236, 236, 0.3);
+  --tw-gradient-stops: var(--tw-gradient-from), var(--tw-gradient-to, rgba(238, 236, 236, 0));
 }
 
 .from-badgeBg{
@@ -19176,8 +19176,8 @@ video {
 }
 
 .hover\:from-gradTop:hover{
-  --tw-gradient-from: rgba(255, 255, 255, 0.1);
-  --tw-gradient-stops: var(--tw-gradient-from), var(--tw-gradient-to, rgba(255, 255, 255, 0));
+  --tw-gradient-from: rgba(238, 236, 236, 0.3);
+  --tw-gradient-stops: var(--tw-gradient-from), var(--tw-gradient-to, rgba(238, 236, 236, 0));
 }
 
 .hover\:from-badgeBg:hover{
@@ -19631,8 +19631,8 @@ video {
 }
 
 .focus\:from-gradTop:focus{
-  --tw-gradient-from: rgba(255, 255, 255, 0.1);
-  --tw-gradient-stops: var(--tw-gradient-from), var(--tw-gradient-to, rgba(255, 255, 255, 0));
+  --tw-gradient-from: rgba(238, 236, 236, 0.3);
+  --tw-gradient-stops: var(--tw-gradient-from), var(--tw-gradient-to, rgba(238, 236, 236, 0));
 }
 
 .focus\:from-badgeBg:focus{
@@ -19998,7 +19998,7 @@ video {
 }
 
 .via-gradTop{
-  --tw-gradient-stops: var(--tw-gradient-from), rgba(255, 255, 255, 0.1), var(--tw-gradient-to, rgba(255, 255, 255, 0));
+  --tw-gradient-stops: var(--tw-gradient-from), rgba(238, 236, 236, 0.3), var(--tw-gradient-to, rgba(238, 236, 236, 0));
 }
 
 .via-badgeBg{
@@ -20362,7 +20362,7 @@ video {
 }
 
 .hover\:via-gradTop:hover{
-  --tw-gradient-stops: var(--tw-gradient-from), rgba(255, 255, 255, 0.1), var(--tw-gradient-to, rgba(255, 255, 255, 0));
+  --tw-gradient-stops: var(--tw-gradient-from), rgba(238, 236, 236, 0.3), var(--tw-gradient-to, rgba(238, 236, 236, 0));
 }
 
 .hover\:via-badgeBg:hover{
@@ -20726,7 +20726,7 @@ video {
 }
 
 .focus\:via-gradTop:focus{
-  --tw-gradient-stops: var(--tw-gradient-from), rgba(255, 255, 255, 0.1), var(--tw-gradient-to, rgba(255, 255, 255, 0));
+  --tw-gradient-stops: var(--tw-gradient-from), rgba(238, 236, 236, 0.3), var(--tw-gradient-to, rgba(238, 236, 236, 0));
 }
 
 .focus\:via-badgeBg:focus{
@@ -21090,7 +21090,7 @@ video {
 }
 
 .to-gradTop{
-  --tw-gradient-to: rgba(255, 255, 255, 0.1);
+  --tw-gradient-to: rgba(238, 236, 236, 0.3);
 }
 
 .to-badgeBg{
@@ -21454,7 +21454,7 @@ video {
 }
 
 .hover\:to-gradTop:hover{
-  --tw-gradient-to: rgba(255, 255, 255, 0.1);
+  --tw-gradient-to: rgba(238, 236, 236, 0.3);
 }
 
 .hover\:to-badgeBg:hover{
@@ -21818,7 +21818,7 @@ video {
 }
 
 .focus\:to-gradTop:focus{
-  --tw-gradient-to: rgba(255, 255, 255, 0.1);
+  --tw-gradient-to: rgba(238, 236, 236, 0.3);
 }
 
 .focus\:to-badgeBg:focus{
@@ -23841,7 +23841,7 @@ video {
 }
 
 .text-gradTop{
-  color: rgba(255, 255, 255, 0.1);
+  color: rgba(238, 236, 236, 0.3);
 }
 
 .text-badgeBg{
@@ -24293,7 +24293,7 @@ video {
 }
 
 .group:hover .group-hover\:text-gradTop{
-  color: rgba(255, 255, 255, 0.1);
+  color: rgba(238, 236, 236, 0.3);
 }
 
 .group:hover .group-hover\:text-badgeBg{
@@ -24745,7 +24745,7 @@ video {
 }
 
 .focus-within\:text-gradTop:focus-within{
-  color: rgba(255, 255, 255, 0.1);
+  color: rgba(238, 236, 236, 0.3);
 }
 
 .focus-within\:text-badgeBg:focus-within{
@@ -25197,7 +25197,7 @@ video {
 }
 
 .hover\:text-gradTop:hover{
-  color: rgba(255, 255, 255, 0.1);
+  color: rgba(238, 236, 236, 0.3);
 }
 
 .hover\:text-badgeBg:hover{
@@ -25649,7 +25649,7 @@ video {
 }
 
 .focus\:text-gradTop:focus{
-  color: rgba(255, 255, 255, 0.1);
+  color: rgba(238, 236, 236, 0.3);
 }
 
 .focus\:text-badgeBg:focus{
@@ -27347,15 +27347,15 @@ video {
 }
 
 .placeholder-gradTop::-moz-placeholder{
-  color: rgba(255, 255, 255, 0.1);
+  color: rgba(238, 236, 236, 0.3);
 }
 
 .placeholder-gradTop:-ms-input-placeholder{
-  color: rgba(255, 255, 255, 0.1);
+  color: rgba(238, 236, 236, 0.3);
 }
 
 .placeholder-gradTop::placeholder{
-  color: rgba(255, 255, 255, 0.1);
+  color: rgba(238, 236, 236, 0.3);
 }
 
 .placeholder-badgeBg::-moz-placeholder{
@@ -28703,15 +28703,15 @@ video {
 }
 
 .focus\:placeholder-gradTop:focus::-moz-placeholder{
-  color: rgba(255, 255, 255, 0.1);
+  color: rgba(238, 236, 236, 0.3);
 }
 
 .focus\:placeholder-gradTop:focus:-ms-input-placeholder{
-  color: rgba(255, 255, 255, 0.1);
+  color: rgba(238, 236, 236, 0.3);
 }
 
 .focus\:placeholder-gradTop:focus::placeholder{
-  color: rgba(255, 255, 255, 0.1);
+  color: rgba(238, 236, 236, 0.3);
 }
 
 .focus\:placeholder-badgeBg:focus::-moz-placeholder{
@@ -30349,7 +30349,7 @@ video {
 }
 
 .ring-gradTop{
-  --tw-ring-color: rgba(255, 255, 255, 0.1);
+  --tw-ring-color: rgba(238, 236, 236, 0.3);
 }
 
 .ring-badgeBg{
@@ -30801,7 +30801,7 @@ video {
 }
 
 .focus-within\:ring-gradTop:focus-within{
-  --tw-ring-color: rgba(255, 255, 255, 0.1);
+  --tw-ring-color: rgba(238, 236, 236, 0.3);
 }
 
 .focus-within\:ring-badgeBg:focus-within{
@@ -31253,7 +31253,7 @@ video {
 }
 
 .focus\:ring-gradTop:focus{
-  --tw-ring-color: rgba(255, 255, 255, 0.1);
+  --tw-ring-color: rgba(238, 236, 236, 0.3);
 }
 
 .focus\:ring-badgeBg:focus{
@@ -31859,7 +31859,7 @@ video {
 }
 
 .ring-offset-gradTop{
-  --tw-ring-offset-color: rgba(255, 255, 255, 0.1);
+  --tw-ring-offset-color: rgba(238, 236, 236, 0.3);
 }
 
 .ring-offset-badgeBg{
@@ -32223,7 +32223,7 @@ video {
 }
 
 .focus-within\:ring-offset-gradTop:focus-within{
-  --tw-ring-offset-color: rgba(255, 255, 255, 0.1);
+  --tw-ring-offset-color: rgba(238, 236, 236, 0.3);
 }
 
 .focus-within\:ring-offset-badgeBg:focus-within{
@@ -32587,7 +32587,7 @@ video {
 }
 
 .focus\:ring-offset-gradTop:focus{
-  --tw-ring-offset-color: rgba(255, 255, 255, 0.1);
+  --tw-ring-offset-color: rgba(238, 236, 236, 0.3);
 }
 
 .focus\:ring-offset-badgeBg:focus{
@@ -44839,7 +44839,7 @@ video {
   }
 
   .sm\:divide-gradTop > :not([hidden]) ~ :not([hidden]){
-    border-color: rgba(255, 255, 255, 0.1);
+    border-color: rgba(238, 236, 236, 0.3);
   }
 
   .sm\:divide-badgeBg > :not([hidden]) ~ :not([hidden]){
@@ -46049,7 +46049,7 @@ video {
   }
 
   .sm\:border-gradTop{
-    border-color: rgba(255, 255, 255, 0.1);
+    border-color: rgba(238, 236, 236, 0.3);
   }
 
   .sm\:border-badgeBg{
@@ -46501,7 +46501,7 @@ video {
   }
 
   .group:hover .sm\:group-hover\:border-gradTop{
-    border-color: rgba(255, 255, 255, 0.1);
+    border-color: rgba(238, 236, 236, 0.3);
   }
 
   .group:hover .sm\:group-hover\:border-badgeBg{
@@ -46953,7 +46953,7 @@ video {
   }
 
   .sm\:focus-within\:border-gradTop:focus-within{
-    border-color: rgba(255, 255, 255, 0.1);
+    border-color: rgba(238, 236, 236, 0.3);
   }
 
   .sm\:focus-within\:border-badgeBg:focus-within{
@@ -47405,7 +47405,7 @@ video {
   }
 
   .sm\:hover\:border-gradTop:hover{
-    border-color: rgba(255, 255, 255, 0.1);
+    border-color: rgba(238, 236, 236, 0.3);
   }
 
   .sm\:hover\:border-badgeBg:hover{
@@ -47857,7 +47857,7 @@ video {
   }
 
   .sm\:focus\:border-gradTop:focus{
-    border-color: rgba(255, 255, 255, 0.1);
+    border-color: rgba(238, 236, 236, 0.3);
   }
 
   .sm\:focus\:border-badgeBg:focus{
@@ -48609,7 +48609,7 @@ video {
   }
 
   .sm\:bg-gradTop{
-    background-color: rgba(255, 255, 255, 0.1);
+    background-color: rgba(238, 236, 236, 0.3);
   }
 
   .sm\:bg-badgeBg{
@@ -49061,7 +49061,7 @@ video {
   }
 
   .group:hover .sm\:group-hover\:bg-gradTop{
-    background-color: rgba(255, 255, 255, 0.1);
+    background-color: rgba(238, 236, 236, 0.3);
   }
 
   .group:hover .sm\:group-hover\:bg-badgeBg{
@@ -49513,7 +49513,7 @@ video {
   }
 
   .sm\:focus-within\:bg-gradTop:focus-within{
-    background-color: rgba(255, 255, 255, 0.1);
+    background-color: rgba(238, 236, 236, 0.3);
   }
 
   .sm\:focus-within\:bg-badgeBg:focus-within{
@@ -49965,7 +49965,7 @@ video {
   }
 
   .sm\:hover\:bg-gradTop:hover{
-    background-color: rgba(255, 255, 255, 0.1);
+    background-color: rgba(238, 236, 236, 0.3);
   }
 
   .sm\:hover\:bg-badgeBg:hover{
@@ -50417,7 +50417,7 @@ video {
   }
 
   .sm\:focus\:bg-gradTop:focus{
-    background-color: rgba(255, 255, 255, 0.1);
+    background-color: rgba(238, 236, 236, 0.3);
   }
 
   .sm\:focus\:bg-badgeBg:focus{
@@ -51207,8 +51207,8 @@ video {
   }
 
   .sm\:from-gradTop{
-    --tw-gradient-from: rgba(255, 255, 255, 0.1);
-    --tw-gradient-stops: var(--tw-gradient-from), var(--tw-gradient-to, rgba(255, 255, 255, 0));
+    --tw-gradient-from: rgba(238, 236, 236, 0.3);
+    --tw-gradient-stops: var(--tw-gradient-from), var(--tw-gradient-to, rgba(238, 236, 236, 0));
   }
 
   .sm\:from-badgeBg{
@@ -51662,8 +51662,8 @@ video {
   }
 
   .sm\:hover\:from-gradTop:hover{
-    --tw-gradient-from: rgba(255, 255, 255, 0.1);
-    --tw-gradient-stops: var(--tw-gradient-from), var(--tw-gradient-to, rgba(255, 255, 255, 0));
+    --tw-gradient-from: rgba(238, 236, 236, 0.3);
+    --tw-gradient-stops: var(--tw-gradient-from), var(--tw-gradient-to, rgba(238, 236, 236, 0));
   }
 
   .sm\:hover\:from-badgeBg:hover{
@@ -52117,8 +52117,8 @@ video {
   }
 
   .sm\:focus\:from-gradTop:focus{
-    --tw-gradient-from: rgba(255, 255, 255, 0.1);
-    --tw-gradient-stops: var(--tw-gradient-from), var(--tw-gradient-to, rgba(255, 255, 255, 0));
+    --tw-gradient-from: rgba(238, 236, 236, 0.3);
+    --tw-gradient-stops: var(--tw-gradient-from), var(--tw-gradient-to, rgba(238, 236, 236, 0));
   }
 
   .sm\:focus\:from-badgeBg:focus{
@@ -52484,7 +52484,7 @@ video {
   }
 
   .sm\:via-gradTop{
-    --tw-gradient-stops: var(--tw-gradient-from), rgba(255, 255, 255, 0.1), var(--tw-gradient-to, rgba(255, 255, 255, 0));
+    --tw-gradient-stops: var(--tw-gradient-from), rgba(238, 236, 236, 0.3), var(--tw-gradient-to, rgba(238, 236, 236, 0));
   }
 
   .sm\:via-badgeBg{
@@ -52848,7 +52848,7 @@ video {
   }
 
   .sm\:hover\:via-gradTop:hover{
-    --tw-gradient-stops: var(--tw-gradient-from), rgba(255, 255, 255, 0.1), var(--tw-gradient-to, rgba(255, 255, 255, 0));
+    --tw-gradient-stops: var(--tw-gradient-from), rgba(238, 236, 236, 0.3), var(--tw-gradient-to, rgba(238, 236, 236, 0));
   }
 
   .sm\:hover\:via-badgeBg:hover{
@@ -53212,7 +53212,7 @@ video {
   }
 
   .sm\:focus\:via-gradTop:focus{
-    --tw-gradient-stops: var(--tw-gradient-from), rgba(255, 255, 255, 0.1), var(--tw-gradient-to, rgba(255, 255, 255, 0));
+    --tw-gradient-stops: var(--tw-gradient-from), rgba(238, 236, 236, 0.3), var(--tw-gradient-to, rgba(238, 236, 236, 0));
   }
 
   .sm\:focus\:via-badgeBg:focus{
@@ -53576,7 +53576,7 @@ video {
   }
 
   .sm\:to-gradTop{
-    --tw-gradient-to: rgba(255, 255, 255, 0.1);
+    --tw-gradient-to: rgba(238, 236, 236, 0.3);
   }
 
   .sm\:to-badgeBg{
@@ -53940,7 +53940,7 @@ video {
   }
 
   .sm\:hover\:to-gradTop:hover{
-    --tw-gradient-to: rgba(255, 255, 255, 0.1);
+    --tw-gradient-to: rgba(238, 236, 236, 0.3);
   }
 
   .sm\:hover\:to-badgeBg:hover{
@@ -54304,7 +54304,7 @@ video {
   }
 
   .sm\:focus\:to-gradTop:focus{
-    --tw-gradient-to: rgba(255, 255, 255, 0.1);
+    --tw-gradient-to: rgba(238, 236, 236, 0.3);
   }
 
   .sm\:focus\:to-badgeBg:focus{
@@ -56327,7 +56327,7 @@ video {
   }
 
   .sm\:text-gradTop{
-    color: rgba(255, 255, 255, 0.1);
+    color: rgba(238, 236, 236, 0.3);
   }
 
   .sm\:text-badgeBg{
@@ -56779,7 +56779,7 @@ video {
   }
 
   .group:hover .sm\:group-hover\:text-gradTop{
-    color: rgba(255, 255, 255, 0.1);
+    color: rgba(238, 236, 236, 0.3);
   }
 
   .group:hover .sm\:group-hover\:text-badgeBg{
@@ -57231,7 +57231,7 @@ video {
   }
 
   .sm\:focus-within\:text-gradTop:focus-within{
-    color: rgba(255, 255, 255, 0.1);
+    color: rgba(238, 236, 236, 0.3);
   }
 
   .sm\:focus-within\:text-badgeBg:focus-within{
@@ -57683,7 +57683,7 @@ video {
   }
 
   .sm\:hover\:text-gradTop:hover{
-    color: rgba(255, 255, 255, 0.1);
+    color: rgba(238, 236, 236, 0.3);
   }
 
   .sm\:hover\:text-badgeBg:hover{
@@ -58135,7 +58135,7 @@ video {
   }
 
   .sm\:focus\:text-gradTop:focus{
-    color: rgba(255, 255, 255, 0.1);
+    color: rgba(238, 236, 236, 0.3);
   }
 
   .sm\:focus\:text-badgeBg:focus{
@@ -59833,15 +59833,15 @@ video {
   }
 
   .sm\:placeholder-gradTop::-moz-placeholder{
-    color: rgba(255, 255, 255, 0.1);
+    color: rgba(238, 236, 236, 0.3);
   }
 
   .sm\:placeholder-gradTop:-ms-input-placeholder{
-    color: rgba(255, 255, 255, 0.1);
+    color: rgba(238, 236, 236, 0.3);
   }
 
   .sm\:placeholder-gradTop::placeholder{
-    color: rgba(255, 255, 255, 0.1);
+    color: rgba(238, 236, 236, 0.3);
   }
 
   .sm\:placeholder-badgeBg::-moz-placeholder{
@@ -61189,15 +61189,15 @@ video {
   }
 
   .sm\:focus\:placeholder-gradTop:focus::-moz-placeholder{
-    color: rgba(255, 255, 255, 0.1);
+    color: rgba(238, 236, 236, 0.3);
   }
 
   .sm\:focus\:placeholder-gradTop:focus:-ms-input-placeholder{
-    color: rgba(255, 255, 255, 0.1);
+    color: rgba(238, 236, 236, 0.3);
   }
 
   .sm\:focus\:placeholder-gradTop:focus::placeholder{
-    color: rgba(255, 255, 255, 0.1);
+    color: rgba(238, 236, 236, 0.3);
   }
 
   .sm\:focus\:placeholder-badgeBg:focus::-moz-placeholder{
@@ -62822,7 +62822,7 @@ video {
   }
 
   .sm\:ring-gradTop{
-    --tw-ring-color: rgba(255, 255, 255, 0.1);
+    --tw-ring-color: rgba(238, 236, 236, 0.3);
   }
 
   .sm\:ring-badgeBg{
@@ -63274,7 +63274,7 @@ video {
   }
 
   .sm\:focus-within\:ring-gradTop:focus-within{
-    --tw-ring-color: rgba(255, 255, 255, 0.1);
+    --tw-ring-color: rgba(238, 236, 236, 0.3);
   }
 
   .sm\:focus-within\:ring-badgeBg:focus-within{
@@ -63726,7 +63726,7 @@ video {
   }
 
   .sm\:focus\:ring-gradTop:focus{
-    --tw-ring-color: rgba(255, 255, 255, 0.1);
+    --tw-ring-color: rgba(238, 236, 236, 0.3);
   }
 
   .sm\:focus\:ring-badgeBg:focus{
@@ -64332,7 +64332,7 @@ video {
   }
 
   .sm\:ring-offset-gradTop{
-    --tw-ring-offset-color: rgba(255, 255, 255, 0.1);
+    --tw-ring-offset-color: rgba(238, 236, 236, 0.3);
   }
 
   .sm\:ring-offset-badgeBg{
@@ -64696,7 +64696,7 @@ video {
   }
 
   .sm\:focus-within\:ring-offset-gradTop:focus-within{
-    --tw-ring-offset-color: rgba(255, 255, 255, 0.1);
+    --tw-ring-offset-color: rgba(238, 236, 236, 0.3);
   }
 
   .sm\:focus-within\:ring-offset-badgeBg:focus-within{
@@ -65060,7 +65060,7 @@ video {
   }
 
   .sm\:focus\:ring-offset-gradTop:focus{
-    --tw-ring-offset-color: rgba(255, 255, 255, 0.1);
+    --tw-ring-offset-color: rgba(238, 236, 236, 0.3);
   }
 
   .sm\:focus\:ring-offset-badgeBg:focus{
@@ -77313,7 +77313,7 @@ video {
   }
 
   .md\:divide-gradTop > :not([hidden]) ~ :not([hidden]){
-    border-color: rgba(255, 255, 255, 0.1);
+    border-color: rgba(238, 236, 236, 0.3);
   }
 
   .md\:divide-badgeBg > :not([hidden]) ~ :not([hidden]){
@@ -78523,7 +78523,7 @@ video {
   }
 
   .md\:border-gradTop{
-    border-color: rgba(255, 255, 255, 0.1);
+    border-color: rgba(238, 236, 236, 0.3);
   }
 
   .md\:border-badgeBg{
@@ -78975,7 +78975,7 @@ video {
   }
 
   .group:hover .md\:group-hover\:border-gradTop{
-    border-color: rgba(255, 255, 255, 0.1);
+    border-color: rgba(238, 236, 236, 0.3);
   }
 
   .group:hover .md\:group-hover\:border-badgeBg{
@@ -79427,7 +79427,7 @@ video {
   }
 
   .md\:focus-within\:border-gradTop:focus-within{
-    border-color: rgba(255, 255, 255, 0.1);
+    border-color: rgba(238, 236, 236, 0.3);
   }
 
   .md\:focus-within\:border-badgeBg:focus-within{
@@ -79879,7 +79879,7 @@ video {
   }
 
   .md\:hover\:border-gradTop:hover{
-    border-color: rgba(255, 255, 255, 0.1);
+    border-color: rgba(238, 236, 236, 0.3);
   }
 
   .md\:hover\:border-badgeBg:hover{
@@ -80331,7 +80331,7 @@ video {
   }
 
   .md\:focus\:border-gradTop:focus{
-    border-color: rgba(255, 255, 255, 0.1);
+    border-color: rgba(238, 236, 236, 0.3);
   }
 
   .md\:focus\:border-badgeBg:focus{
@@ -81083,7 +81083,7 @@ video {
   }
 
   .md\:bg-gradTop{
-    background-color: rgba(255, 255, 255, 0.1);
+    background-color: rgba(238, 236, 236, 0.3);
   }
 
   .md\:bg-badgeBg{
@@ -81535,7 +81535,7 @@ video {
   }
 
   .group:hover .md\:group-hover\:bg-gradTop{
-    background-color: rgba(255, 255, 255, 0.1);
+    background-color: rgba(238, 236, 236, 0.3);
   }
 
   .group:hover .md\:group-hover\:bg-badgeBg{
@@ -81987,7 +81987,7 @@ video {
   }
 
   .md\:focus-within\:bg-gradTop:focus-within{
-    background-color: rgba(255, 255, 255, 0.1);
+    background-color: rgba(238, 236, 236, 0.3);
   }
 
   .md\:focus-within\:bg-badgeBg:focus-within{
@@ -82439,7 +82439,7 @@ video {
   }
 
   .md\:hover\:bg-gradTop:hover{
-    background-color: rgba(255, 255, 255, 0.1);
+    background-color: rgba(238, 236, 236, 0.3);
   }
 
   .md\:hover\:bg-badgeBg:hover{
@@ -82891,7 +82891,7 @@ video {
   }
 
   .md\:focus\:bg-gradTop:focus{
-    background-color: rgba(255, 255, 255, 0.1);
+    background-color: rgba(238, 236, 236, 0.3);
   }
 
   .md\:focus\:bg-badgeBg:focus{
@@ -83681,8 +83681,8 @@ video {
   }
 
   .md\:from-gradTop{
-    --tw-gradient-from: rgba(255, 255, 255, 0.1);
-    --tw-gradient-stops: var(--tw-gradient-from), var(--tw-gradient-to, rgba(255, 255, 255, 0));
+    --tw-gradient-from: rgba(238, 236, 236, 0.3);
+    --tw-gradient-stops: var(--tw-gradient-from), var(--tw-gradient-to, rgba(238, 236, 236, 0));
   }
 
   .md\:from-badgeBg{
@@ -84136,8 +84136,8 @@ video {
   }
 
   .md\:hover\:from-gradTop:hover{
-    --tw-gradient-from: rgba(255, 255, 255, 0.1);
-    --tw-gradient-stops: var(--tw-gradient-from), var(--tw-gradient-to, rgba(255, 255, 255, 0));
+    --tw-gradient-from: rgba(238, 236, 236, 0.3);
+    --tw-gradient-stops: var(--tw-gradient-from), var(--tw-gradient-to, rgba(238, 236, 236, 0));
   }
 
   .md\:hover\:from-badgeBg:hover{
@@ -84591,8 +84591,8 @@ video {
   }
 
   .md\:focus\:from-gradTop:focus{
-    --tw-gradient-from: rgba(255, 255, 255, 0.1);
-    --tw-gradient-stops: var(--tw-gradient-from), var(--tw-gradient-to, rgba(255, 255, 255, 0));
+    --tw-gradient-from: rgba(238, 236, 236, 0.3);
+    --tw-gradient-stops: var(--tw-gradient-from), var(--tw-gradient-to, rgba(238, 236, 236, 0));
   }
 
   .md\:focus\:from-badgeBg:focus{
@@ -84958,7 +84958,7 @@ video {
   }
 
   .md\:via-gradTop{
-    --tw-gradient-stops: var(--tw-gradient-from), rgba(255, 255, 255, 0.1), var(--tw-gradient-to, rgba(255, 255, 255, 0));
+    --tw-gradient-stops: var(--tw-gradient-from), rgba(238, 236, 236, 0.3), var(--tw-gradient-to, rgba(238, 236, 236, 0));
   }
 
   .md\:via-badgeBg{
@@ -85322,7 +85322,7 @@ video {
   }
 
   .md\:hover\:via-gradTop:hover{
-    --tw-gradient-stops: var(--tw-gradient-from), rgba(255, 255, 255, 0.1), var(--tw-gradient-to, rgba(255, 255, 255, 0));
+    --tw-gradient-stops: var(--tw-gradient-from), rgba(238, 236, 236, 0.3), var(--tw-gradient-to, rgba(238, 236, 236, 0));
   }
 
   .md\:hover\:via-badgeBg:hover{
@@ -85686,7 +85686,7 @@ video {
   }
 
   .md\:focus\:via-gradTop:focus{
-    --tw-gradient-stops: var(--tw-gradient-from), rgba(255, 255, 255, 0.1), var(--tw-gradient-to, rgba(255, 255, 255, 0));
+    --tw-gradient-stops: var(--tw-gradient-from), rgba(238, 236, 236, 0.3), var(--tw-gradient-to, rgba(238, 236, 236, 0));
   }
 
   .md\:focus\:via-badgeBg:focus{
@@ -86050,7 +86050,7 @@ video {
   }
 
   .md\:to-gradTop{
-    --tw-gradient-to: rgba(255, 255, 255, 0.1);
+    --tw-gradient-to: rgba(238, 236, 236, 0.3);
   }
 
   .md\:to-badgeBg{
@@ -86414,7 +86414,7 @@ video {
   }
 
   .md\:hover\:to-gradTop:hover{
-    --tw-gradient-to: rgba(255, 255, 255, 0.1);
+    --tw-gradient-to: rgba(238, 236, 236, 0.3);
   }
 
   .md\:hover\:to-badgeBg:hover{
@@ -86778,7 +86778,7 @@ video {
   }
 
   .md\:focus\:to-gradTop:focus{
-    --tw-gradient-to: rgba(255, 255, 255, 0.1);
+    --tw-gradient-to: rgba(238, 236, 236, 0.3);
   }
 
   .md\:focus\:to-badgeBg:focus{
@@ -88801,7 +88801,7 @@ video {
   }
 
   .md\:text-gradTop{
-    color: rgba(255, 255, 255, 0.1);
+    color: rgba(238, 236, 236, 0.3);
   }
 
   .md\:text-badgeBg{
@@ -89253,7 +89253,7 @@ video {
   }
 
   .group:hover .md\:group-hover\:text-gradTop{
-    color: rgba(255, 255, 255, 0.1);
+    color: rgba(238, 236, 236, 0.3);
   }
 
   .group:hover .md\:group-hover\:text-badgeBg{
@@ -89705,7 +89705,7 @@ video {
   }
 
   .md\:focus-within\:text-gradTop:focus-within{
-    color: rgba(255, 255, 255, 0.1);
+    color: rgba(238, 236, 236, 0.3);
   }
 
   .md\:focus-within\:text-badgeBg:focus-within{
@@ -90157,7 +90157,7 @@ video {
   }
 
   .md\:hover\:text-gradTop:hover{
-    color: rgba(255, 255, 255, 0.1);
+    color: rgba(238, 236, 236, 0.3);
   }
 
   .md\:hover\:text-badgeBg:hover{
@@ -90609,7 +90609,7 @@ video {
   }
 
   .md\:focus\:text-gradTop:focus{
-    color: rgba(255, 255, 255, 0.1);
+    color: rgba(238, 236, 236, 0.3);
   }
 
   .md\:focus\:text-badgeBg:focus{
@@ -92307,15 +92307,15 @@ video {
   }
 
   .md\:placeholder-gradTop::-moz-placeholder{
-    color: rgba(255, 255, 255, 0.1);
+    color: rgba(238, 236, 236, 0.3);
   }
 
   .md\:placeholder-gradTop:-ms-input-placeholder{
-    color: rgba(255, 255, 255, 0.1);
+    color: rgba(238, 236, 236, 0.3);
   }
 
   .md\:placeholder-gradTop::placeholder{
-    color: rgba(255, 255, 255, 0.1);
+    color: rgba(238, 236, 236, 0.3);
   }
 
   .md\:placeholder-badgeBg::-moz-placeholder{
@@ -93663,15 +93663,15 @@ video {
   }
 
   .md\:focus\:placeholder-gradTop:focus::-moz-placeholder{
-    color: rgba(255, 255, 255, 0.1);
+    color: rgba(238, 236, 236, 0.3);
   }
 
   .md\:focus\:placeholder-gradTop:focus:-ms-input-placeholder{
-    color: rgba(255, 255, 255, 0.1);
+    color: rgba(238, 236, 236, 0.3);
   }
 
   .md\:focus\:placeholder-gradTop:focus::placeholder{
-    color: rgba(255, 255, 255, 0.1);
+    color: rgba(238, 236, 236, 0.3);
   }
 
   .md\:focus\:placeholder-badgeBg:focus::-moz-placeholder{
@@ -95296,7 +95296,7 @@ video {
   }
 
   .md\:ring-gradTop{
-    --tw-ring-color: rgba(255, 255, 255, 0.1);
+    --tw-ring-color: rgba(238, 236, 236, 0.3);
   }
 
   .md\:ring-badgeBg{
@@ -95748,7 +95748,7 @@ video {
   }
 
   .md\:focus-within\:ring-gradTop:focus-within{
-    --tw-ring-color: rgba(255, 255, 255, 0.1);
+    --tw-ring-color: rgba(238, 236, 236, 0.3);
   }
 
   .md\:focus-within\:ring-badgeBg:focus-within{
@@ -96200,7 +96200,7 @@ video {
   }
 
   .md\:focus\:ring-gradTop:focus{
-    --tw-ring-color: rgba(255, 255, 255, 0.1);
+    --tw-ring-color: rgba(238, 236, 236, 0.3);
   }
 
   .md\:focus\:ring-badgeBg:focus{
@@ -96806,7 +96806,7 @@ video {
   }
 
   .md\:ring-offset-gradTop{
-    --tw-ring-offset-color: rgba(255, 255, 255, 0.1);
+    --tw-ring-offset-color: rgba(238, 236, 236, 0.3);
   }
 
   .md\:ring-offset-badgeBg{
@@ -97170,7 +97170,7 @@ video {
   }
 
   .md\:focus-within\:ring-offset-gradTop:focus-within{
-    --tw-ring-offset-color: rgba(255, 255, 255, 0.1);
+    --tw-ring-offset-color: rgba(238, 236, 236, 0.3);
   }
 
   .md\:focus-within\:ring-offset-badgeBg:focus-within{
@@ -97534,7 +97534,7 @@ video {
   }
 
   .md\:focus\:ring-offset-gradTop:focus{
-    --tw-ring-offset-color: rgba(255, 255, 255, 0.1);
+    --tw-ring-offset-color: rgba(238, 236, 236, 0.3);
   }
 
   .md\:focus\:ring-offset-badgeBg:focus{
@@ -109787,7 +109787,7 @@ video {
   }
 
   .lg\:divide-gradTop > :not([hidden]) ~ :not([hidden]){
-    border-color: rgba(255, 255, 255, 0.1);
+    border-color: rgba(238, 236, 236, 0.3);
   }
 
   .lg\:divide-badgeBg > :not([hidden]) ~ :not([hidden]){
@@ -110997,7 +110997,7 @@ video {
   }
 
   .lg\:border-gradTop{
-    border-color: rgba(255, 255, 255, 0.1);
+    border-color: rgba(238, 236, 236, 0.3);
   }
 
   .lg\:border-badgeBg{
@@ -111449,7 +111449,7 @@ video {
   }
 
   .group:hover .lg\:group-hover\:border-gradTop{
-    border-color: rgba(255, 255, 255, 0.1);
+    border-color: rgba(238, 236, 236, 0.3);
   }
 
   .group:hover .lg\:group-hover\:border-badgeBg{
@@ -111901,7 +111901,7 @@ video {
   }
 
   .lg\:focus-within\:border-gradTop:focus-within{
-    border-color: rgba(255, 255, 255, 0.1);
+    border-color: rgba(238, 236, 236, 0.3);
   }
 
   .lg\:focus-within\:border-badgeBg:focus-within{
@@ -112353,7 +112353,7 @@ video {
   }
 
   .lg\:hover\:border-gradTop:hover{
-    border-color: rgba(255, 255, 255, 0.1);
+    border-color: rgba(238, 236, 236, 0.3);
   }
 
   .lg\:hover\:border-badgeBg:hover{
@@ -112805,7 +112805,7 @@ video {
   }
 
   .lg\:focus\:border-gradTop:focus{
-    border-color: rgba(255, 255, 255, 0.1);
+    border-color: rgba(238, 236, 236, 0.3);
   }
 
   .lg\:focus\:border-badgeBg:focus{
@@ -113557,7 +113557,7 @@ video {
   }
 
   .lg\:bg-gradTop{
-    background-color: rgba(255, 255, 255, 0.1);
+    background-color: rgba(238, 236, 236, 0.3);
   }
 
   .lg\:bg-badgeBg{
@@ -114009,7 +114009,7 @@ video {
   }
 
   .group:hover .lg\:group-hover\:bg-gradTop{
-    background-color: rgba(255, 255, 255, 0.1);
+    background-color: rgba(238, 236, 236, 0.3);
   }
 
   .group:hover .lg\:group-hover\:bg-badgeBg{
@@ -114461,7 +114461,7 @@ video {
   }
 
   .lg\:focus-within\:bg-gradTop:focus-within{
-    background-color: rgba(255, 255, 255, 0.1);
+    background-color: rgba(238, 236, 236, 0.3);
   }
 
   .lg\:focus-within\:bg-badgeBg:focus-within{
@@ -114913,7 +114913,7 @@ video {
   }
 
   .lg\:hover\:bg-gradTop:hover{
-    background-color: rgba(255, 255, 255, 0.1);
+    background-color: rgba(238, 236, 236, 0.3);
   }
 
   .lg\:hover\:bg-badgeBg:hover{
@@ -115365,7 +115365,7 @@ video {
   }
 
   .lg\:focus\:bg-gradTop:focus{
-    background-color: rgba(255, 255, 255, 0.1);
+    background-color: rgba(238, 236, 236, 0.3);
   }
 
   .lg\:focus\:bg-badgeBg:focus{
@@ -116155,8 +116155,8 @@ video {
   }
 
   .lg\:from-gradTop{
-    --tw-gradient-from: rgba(255, 255, 255, 0.1);
-    --tw-gradient-stops: var(--tw-gradient-from), var(--tw-gradient-to, rgba(255, 255, 255, 0));
+    --tw-gradient-from: rgba(238, 236, 236, 0.3);
+    --tw-gradient-stops: var(--tw-gradient-from), var(--tw-gradient-to, rgba(238, 236, 236, 0));
   }
 
   .lg\:from-badgeBg{
@@ -116610,8 +116610,8 @@ video {
   }
 
   .lg\:hover\:from-gradTop:hover{
-    --tw-gradient-from: rgba(255, 255, 255, 0.1);
-    --tw-gradient-stops: var(--tw-gradient-from), var(--tw-gradient-to, rgba(255, 255, 255, 0));
+    --tw-gradient-from: rgba(238, 236, 236, 0.3);
+    --tw-gradient-stops: var(--tw-gradient-from), var(--tw-gradient-to, rgba(238, 236, 236, 0));
   }
 
   .lg\:hover\:from-badgeBg:hover{
@@ -117065,8 +117065,8 @@ video {
   }
 
   .lg\:focus\:from-gradTop:focus{
-    --tw-gradient-from: rgba(255, 255, 255, 0.1);
-    --tw-gradient-stops: var(--tw-gradient-from), var(--tw-gradient-to, rgba(255, 255, 255, 0));
+    --tw-gradient-from: rgba(238, 236, 236, 0.3);
+    --tw-gradient-stops: var(--tw-gradient-from), var(--tw-gradient-to, rgba(238, 236, 236, 0));
   }
 
   .lg\:focus\:from-badgeBg:focus{
@@ -117432,7 +117432,7 @@ video {
   }
 
   .lg\:via-gradTop{
-    --tw-gradient-stops: var(--tw-gradient-from), rgba(255, 255, 255, 0.1), var(--tw-gradient-to, rgba(255, 255, 255, 0));
+    --tw-gradient-stops: var(--tw-gradient-from), rgba(238, 236, 236, 0.3), var(--tw-gradient-to, rgba(238, 236, 236, 0));
   }
 
   .lg\:via-badgeBg{
@@ -117796,7 +117796,7 @@ video {
   }
 
   .lg\:hover\:via-gradTop:hover{
-    --tw-gradient-stops: var(--tw-gradient-from), rgba(255, 255, 255, 0.1), var(--tw-gradient-to, rgba(255, 255, 255, 0));
+    --tw-gradient-stops: var(--tw-gradient-from), rgba(238, 236, 236, 0.3), var(--tw-gradient-to, rgba(238, 236, 236, 0));
   }
 
   .lg\:hover\:via-badgeBg:hover{
@@ -118160,7 +118160,7 @@ video {
   }
 
   .lg\:focus\:via-gradTop:focus{
-    --tw-gradient-stops: var(--tw-gradient-from), rgba(255, 255, 255, 0.1), var(--tw-gradient-to, rgba(255, 255, 255, 0));
+    --tw-gradient-stops: var(--tw-gradient-from), rgba(238, 236, 236, 0.3), var(--tw-gradient-to, rgba(238, 236, 236, 0));
   }
 
   .lg\:focus\:via-badgeBg:focus{
@@ -118524,7 +118524,7 @@ video {
   }
 
   .lg\:to-gradTop{
-    --tw-gradient-to: rgba(255, 255, 255, 0.1);
+    --tw-gradient-to: rgba(238, 236, 236, 0.3);
   }
 
   .lg\:to-badgeBg{
@@ -118888,7 +118888,7 @@ video {
   }
 
   .lg\:hover\:to-gradTop:hover{
-    --tw-gradient-to: rgba(255, 255, 255, 0.1);
+    --tw-gradient-to: rgba(238, 236, 236, 0.3);
   }
 
   .lg\:hover\:to-badgeBg:hover{
@@ -119252,7 +119252,7 @@ video {
   }
 
   .lg\:focus\:to-gradTop:focus{
-    --tw-gradient-to: rgba(255, 255, 255, 0.1);
+    --tw-gradient-to: rgba(238, 236, 236, 0.3);
   }
 
   .lg\:focus\:to-badgeBg:focus{
@@ -121275,7 +121275,7 @@ video {
   }
 
   .lg\:text-gradTop{
-    color: rgba(255, 255, 255, 0.1);
+    color: rgba(238, 236, 236, 0.3);
   }
 
   .lg\:text-badgeBg{
@@ -121727,7 +121727,7 @@ video {
   }
 
   .group:hover .lg\:group-hover\:text-gradTop{
-    color: rgba(255, 255, 255, 0.1);
+    color: rgba(238, 236, 236, 0.3);
   }
 
   .group:hover .lg\:group-hover\:text-badgeBg{
@@ -122179,7 +122179,7 @@ video {
   }
 
   .lg\:focus-within\:text-gradTop:focus-within{
-    color: rgba(255, 255, 255, 0.1);
+    color: rgba(238, 236, 236, 0.3);
   }
 
   .lg\:focus-within\:text-badgeBg:focus-within{
@@ -122631,7 +122631,7 @@ video {
   }
 
   .lg\:hover\:text-gradTop:hover{
-    color: rgba(255, 255, 255, 0.1);
+    color: rgba(238, 236, 236, 0.3);
   }
 
   .lg\:hover\:text-badgeBg:hover{
@@ -123083,7 +123083,7 @@ video {
   }
 
   .lg\:focus\:text-gradTop:focus{
-    color: rgba(255, 255, 255, 0.1);
+    color: rgba(238, 236, 236, 0.3);
   }
 
   .lg\:focus\:text-badgeBg:focus{
@@ -124781,15 +124781,15 @@ video {
   }
 
   .lg\:placeholder-gradTop::-moz-placeholder{
-    color: rgba(255, 255, 255, 0.1);
+    color: rgba(238, 236, 236, 0.3);
   }
 
   .lg\:placeholder-gradTop:-ms-input-placeholder{
-    color: rgba(255, 255, 255, 0.1);
+    color: rgba(238, 236, 236, 0.3);
   }
 
   .lg\:placeholder-gradTop::placeholder{
-    color: rgba(255, 255, 255, 0.1);
+    color: rgba(238, 236, 236, 0.3);
   }
 
   .lg\:placeholder-badgeBg::-moz-placeholder{
@@ -126137,15 +126137,15 @@ video {
   }
 
   .lg\:focus\:placeholder-gradTop:focus::-moz-placeholder{
-    color: rgba(255, 255, 255, 0.1);
+    color: rgba(238, 236, 236, 0.3);
   }
 
   .lg\:focus\:placeholder-gradTop:focus:-ms-input-placeholder{
-    color: rgba(255, 255, 255, 0.1);
+    color: rgba(238, 236, 236, 0.3);
   }
 
   .lg\:focus\:placeholder-gradTop:focus::placeholder{
-    color: rgba(255, 255, 255, 0.1);
+    color: rgba(238, 236, 236, 0.3);
   }
 
   .lg\:focus\:placeholder-badgeBg:focus::-moz-placeholder{
@@ -127770,7 +127770,7 @@ video {
   }
 
   .lg\:ring-gradTop{
-    --tw-ring-color: rgba(255, 255, 255, 0.1);
+    --tw-ring-color: rgba(238, 236, 236, 0.3);
   }
 
   .lg\:ring-badgeBg{
@@ -128222,7 +128222,7 @@ video {
   }
 
   .lg\:focus-within\:ring-gradTop:focus-within{
-    --tw-ring-color: rgba(255, 255, 255, 0.1);
+    --tw-ring-color: rgba(238, 236, 236, 0.3);
   }
 
   .lg\:focus-within\:ring-badgeBg:focus-within{
@@ -128674,7 +128674,7 @@ video {
   }
 
   .lg\:focus\:ring-gradTop:focus{
-    --tw-ring-color: rgba(255, 255, 255, 0.1);
+    --tw-ring-color: rgba(238, 236, 236, 0.3);
   }
 
   .lg\:focus\:ring-badgeBg:focus{
@@ -129280,7 +129280,7 @@ video {
   }
 
   .lg\:ring-offset-gradTop{
-    --tw-ring-offset-color: rgba(255, 255, 255, 0.1);
+    --tw-ring-offset-color: rgba(238, 236, 236, 0.3);
   }
 
   .lg\:ring-offset-badgeBg{
@@ -129644,7 +129644,7 @@ video {
   }
 
   .lg\:focus-within\:ring-offset-gradTop:focus-within{
-    --tw-ring-offset-color: rgba(255, 255, 255, 0.1);
+    --tw-ring-offset-color: rgba(238, 236, 236, 0.3);
   }
 
   .lg\:focus-within\:ring-offset-badgeBg:focus-within{
@@ -130008,7 +130008,7 @@ video {
   }
 
   .lg\:focus\:ring-offset-gradTop:focus{
-    --tw-ring-offset-color: rgba(255, 255, 255, 0.1);
+    --tw-ring-offset-color: rgba(238, 236, 236, 0.3);
   }
 
   .lg\:focus\:ring-offset-badgeBg:focus{
@@ -142261,7 +142261,7 @@ video {
   }
 
   .xl\:divide-gradTop > :not([hidden]) ~ :not([hidden]){
-    border-color: rgba(255, 255, 255, 0.1);
+    border-color: rgba(238, 236, 236, 0.3);
   }
 
   .xl\:divide-badgeBg > :not([hidden]) ~ :not([hidden]){
@@ -143471,7 +143471,7 @@ video {
   }
 
   .xl\:border-gradTop{
-    border-color: rgba(255, 255, 255, 0.1);
+    border-color: rgba(238, 236, 236, 0.3);
   }
 
   .xl\:border-badgeBg{
@@ -143923,7 +143923,7 @@ video {
   }
 
   .group:hover .xl\:group-hover\:border-gradTop{
-    border-color: rgba(255, 255, 255, 0.1);
+    border-color: rgba(238, 236, 236, 0.3);
   }
 
   .group:hover .xl\:group-hover\:border-badgeBg{
@@ -144375,7 +144375,7 @@ video {
   }
 
   .xl\:focus-within\:border-gradTop:focus-within{
-    border-color: rgba(255, 255, 255, 0.1);
+    border-color: rgba(238, 236, 236, 0.3);
   }
 
   .xl\:focus-within\:border-badgeBg:focus-within{
@@ -144827,7 +144827,7 @@ video {
   }
 
   .xl\:hover\:border-gradTop:hover{
-    border-color: rgba(255, 255, 255, 0.1);
+    border-color: rgba(238, 236, 236, 0.3);
   }
 
   .xl\:hover\:border-badgeBg:hover{
@@ -145279,7 +145279,7 @@ video {
   }
 
   .xl\:focus\:border-gradTop:focus{
-    border-color: rgba(255, 255, 255, 0.1);
+    border-color: rgba(238, 236, 236, 0.3);
   }
 
   .xl\:focus\:border-badgeBg:focus{
@@ -146031,7 +146031,7 @@ video {
   }
 
   .xl\:bg-gradTop{
-    background-color: rgba(255, 255, 255, 0.1);
+    background-color: rgba(238, 236, 236, 0.3);
   }
 
   .xl\:bg-badgeBg{
@@ -146483,7 +146483,7 @@ video {
   }
 
   .group:hover .xl\:group-hover\:bg-gradTop{
-    background-color: rgba(255, 255, 255, 0.1);
+    background-color: rgba(238, 236, 236, 0.3);
   }
 
   .group:hover .xl\:group-hover\:bg-badgeBg{
@@ -146935,7 +146935,7 @@ video {
   }
 
   .xl\:focus-within\:bg-gradTop:focus-within{
-    background-color: rgba(255, 255, 255, 0.1);
+    background-color: rgba(238, 236, 236, 0.3);
   }
 
   .xl\:focus-within\:bg-badgeBg:focus-within{
@@ -147387,7 +147387,7 @@ video {
   }
 
   .xl\:hover\:bg-gradTop:hover{
-    background-color: rgba(255, 255, 255, 0.1);
+    background-color: rgba(238, 236, 236, 0.3);
   }
 
   .xl\:hover\:bg-badgeBg:hover{
@@ -147839,7 +147839,7 @@ video {
   }
 
   .xl\:focus\:bg-gradTop:focus{
-    background-color: rgba(255, 255, 255, 0.1);
+    background-color: rgba(238, 236, 236, 0.3);
   }
 
   .xl\:focus\:bg-badgeBg:focus{
@@ -148629,8 +148629,8 @@ video {
   }
 
   .xl\:from-gradTop{
-    --tw-gradient-from: rgba(255, 255, 255, 0.1);
-    --tw-gradient-stops: var(--tw-gradient-from), var(--tw-gradient-to, rgba(255, 255, 255, 0));
+    --tw-gradient-from: rgba(238, 236, 236, 0.3);
+    --tw-gradient-stops: var(--tw-gradient-from), var(--tw-gradient-to, rgba(238, 236, 236, 0));
   }
 
   .xl\:from-badgeBg{
@@ -149084,8 +149084,8 @@ video {
   }
 
   .xl\:hover\:from-gradTop:hover{
-    --tw-gradient-from: rgba(255, 255, 255, 0.1);
-    --tw-gradient-stops: var(--tw-gradient-from), var(--tw-gradient-to, rgba(255, 255, 255, 0));
+    --tw-gradient-from: rgba(238, 236, 236, 0.3);
+    --tw-gradient-stops: var(--tw-gradient-from), var(--tw-gradient-to, rgba(238, 236, 236, 0));
   }
 
   .xl\:hover\:from-badgeBg:hover{
@@ -149539,8 +149539,8 @@ video {
   }
 
   .xl\:focus\:from-gradTop:focus{
-    --tw-gradient-from: rgba(255, 255, 255, 0.1);
-    --tw-gradient-stops: var(--tw-gradient-from), var(--tw-gradient-to, rgba(255, 255, 255, 0));
+    --tw-gradient-from: rgba(238, 236, 236, 0.3);
+    --tw-gradient-stops: var(--tw-gradient-from), var(--tw-gradient-to, rgba(238, 236, 236, 0));
   }
 
   .xl\:focus\:from-badgeBg:focus{
@@ -149906,7 +149906,7 @@ video {
   }
 
   .xl\:via-gradTop{
-    --tw-gradient-stops: var(--tw-gradient-from), rgba(255, 255, 255, 0.1), var(--tw-gradient-to, rgba(255, 255, 255, 0));
+    --tw-gradient-stops: var(--tw-gradient-from), rgba(238, 236, 236, 0.3), var(--tw-gradient-to, rgba(238, 236, 236, 0));
   }
 
   .xl\:via-badgeBg{
@@ -150270,7 +150270,7 @@ video {
   }
 
   .xl\:hover\:via-gradTop:hover{
-    --tw-gradient-stops: var(--tw-gradient-from), rgba(255, 255, 255, 0.1), var(--tw-gradient-to, rgba(255, 255, 255, 0));
+    --tw-gradient-stops: var(--tw-gradient-from), rgba(238, 236, 236, 0.3), var(--tw-gradient-to, rgba(238, 236, 236, 0));
   }
 
   .xl\:hover\:via-badgeBg:hover{
@@ -150634,7 +150634,7 @@ video {
   }
 
   .xl\:focus\:via-gradTop:focus{
-    --tw-gradient-stops: var(--tw-gradient-from), rgba(255, 255, 255, 0.1), var(--tw-gradient-to, rgba(255, 255, 255, 0));
+    --tw-gradient-stops: var(--tw-gradient-from), rgba(238, 236, 236, 0.3), var(--tw-gradient-to, rgba(238, 236, 236, 0));
   }
 
   .xl\:focus\:via-badgeBg:focus{
@@ -150998,7 +150998,7 @@ video {
   }
 
   .xl\:to-gradTop{
-    --tw-gradient-to: rgba(255, 255, 255, 0.1);
+    --tw-gradient-to: rgba(238, 236, 236, 0.3);
   }
 
   .xl\:to-badgeBg{
@@ -151362,7 +151362,7 @@ video {
   }
 
   .xl\:hover\:to-gradTop:hover{
-    --tw-gradient-to: rgba(255, 255, 255, 0.1);
+    --tw-gradient-to: rgba(238, 236, 236, 0.3);
   }
 
   .xl\:hover\:to-badgeBg:hover{
@@ -151726,7 +151726,7 @@ video {
   }
 
   .xl\:focus\:to-gradTop:focus{
-    --tw-gradient-to: rgba(255, 255, 255, 0.1);
+    --tw-gradient-to: rgba(238, 236, 236, 0.3);
   }
 
   .xl\:focus\:to-badgeBg:focus{
@@ -153749,7 +153749,7 @@ video {
   }
 
   .xl\:text-gradTop{
-    color: rgba(255, 255, 255, 0.1);
+    color: rgba(238, 236, 236, 0.3);
   }
 
   .xl\:text-badgeBg{
@@ -154201,7 +154201,7 @@ video {
   }
 
   .group:hover .xl\:group-hover\:text-gradTop{
-    color: rgba(255, 255, 255, 0.1);
+    color: rgba(238, 236, 236, 0.3);
   }
 
   .group:hover .xl\:group-hover\:text-badgeBg{
@@ -154653,7 +154653,7 @@ video {
   }
 
   .xl\:focus-within\:text-gradTop:focus-within{
-    color: rgba(255, 255, 255, 0.1);
+    color: rgba(238, 236, 236, 0.3);
   }
 
   .xl\:focus-within\:text-badgeBg:focus-within{
@@ -155105,7 +155105,7 @@ video {
   }
 
   .xl\:hover\:text-gradTop:hover{
-    color: rgba(255, 255, 255, 0.1);
+    color: rgba(238, 236, 236, 0.3);
   }
 
   .xl\:hover\:text-badgeBg:hover{
@@ -155557,7 +155557,7 @@ video {
   }
 
   .xl\:focus\:text-gradTop:focus{
-    color: rgba(255, 255, 255, 0.1);
+    color: rgba(238, 236, 236, 0.3);
   }
 
   .xl\:focus\:text-badgeBg:focus{
@@ -157255,15 +157255,15 @@ video {
   }
 
   .xl\:placeholder-gradTop::-moz-placeholder{
-    color: rgba(255, 255, 255, 0.1);
+    color: rgba(238, 236, 236, 0.3);
   }
 
   .xl\:placeholder-gradTop:-ms-input-placeholder{
-    color: rgba(255, 255, 255, 0.1);
+    color: rgba(238, 236, 236, 0.3);
   }
 
   .xl\:placeholder-gradTop::placeholder{
-    color: rgba(255, 255, 255, 0.1);
+    color: rgba(238, 236, 236, 0.3);
   }
 
   .xl\:placeholder-badgeBg::-moz-placeholder{
@@ -158611,15 +158611,15 @@ video {
   }
 
   .xl\:focus\:placeholder-gradTop:focus::-moz-placeholder{
-    color: rgba(255, 255, 255, 0.1);
+    color: rgba(238, 236, 236, 0.3);
   }
 
   .xl\:focus\:placeholder-gradTop:focus:-ms-input-placeholder{
-    color: rgba(255, 255, 255, 0.1);
+    color: rgba(238, 236, 236, 0.3);
   }
 
   .xl\:focus\:placeholder-gradTop:focus::placeholder{
-    color: rgba(255, 255, 255, 0.1);
+    color: rgba(238, 236, 236, 0.3);
   }
 
   .xl\:focus\:placeholder-badgeBg:focus::-moz-placeholder{
@@ -160244,7 +160244,7 @@ video {
   }
 
   .xl\:ring-gradTop{
-    --tw-ring-color: rgba(255, 255, 255, 0.1);
+    --tw-ring-color: rgba(238, 236, 236, 0.3);
   }
 
   .xl\:ring-badgeBg{
@@ -160696,7 +160696,7 @@ video {
   }
 
   .xl\:focus-within\:ring-gradTop:focus-within{
-    --tw-ring-color: rgba(255, 255, 255, 0.1);
+    --tw-ring-color: rgba(238, 236, 236, 0.3);
   }
 
   .xl\:focus-within\:ring-badgeBg:focus-within{
@@ -161148,7 +161148,7 @@ video {
   }
 
   .xl\:focus\:ring-gradTop:focus{
-    --tw-ring-color: rgba(255, 255, 255, 0.1);
+    --tw-ring-color: rgba(238, 236, 236, 0.3);
   }
 
   .xl\:focus\:ring-badgeBg:focus{
@@ -161754,7 +161754,7 @@ video {
   }
 
   .xl\:ring-offset-gradTop{
-    --tw-ring-offset-color: rgba(255, 255, 255, 0.1);
+    --tw-ring-offset-color: rgba(238, 236, 236, 0.3);
   }
 
   .xl\:ring-offset-badgeBg{
@@ -162118,7 +162118,7 @@ video {
   }
 
   .xl\:focus-within\:ring-offset-gradTop:focus-within{
-    --tw-ring-offset-color: rgba(255, 255, 255, 0.1);
+    --tw-ring-offset-color: rgba(238, 236, 236, 0.3);
   }
 
   .xl\:focus-within\:ring-offset-badgeBg:focus-within{
@@ -162482,7 +162482,7 @@ video {
   }
 
   .xl\:focus\:ring-offset-gradTop:focus{
-    --tw-ring-offset-color: rgba(255, 255, 255, 0.1);
+    --tw-ring-offset-color: rgba(238, 236, 236, 0.3);
   }
 
   .xl\:focus\:ring-offset-badgeBg:focus{
@@ -174735,7 +174735,7 @@ video {
   }
 
   .\32xl\:divide-gradTop > :not([hidden]) ~ :not([hidden]){
-    border-color: rgba(255, 255, 255, 0.1);
+    border-color: rgba(238, 236, 236, 0.3);
   }
 
   .\32xl\:divide-badgeBg > :not([hidden]) ~ :not([hidden]){
@@ -175945,7 +175945,7 @@ video {
   }
 
   .\32xl\:border-gradTop{
-    border-color: rgba(255, 255, 255, 0.1);
+    border-color: rgba(238, 236, 236, 0.3);
   }
 
   .\32xl\:border-badgeBg{
@@ -176397,7 +176397,7 @@ video {
   }
 
   .group:hover .\32xl\:group-hover\:border-gradTop{
-    border-color: rgba(255, 255, 255, 0.1);
+    border-color: rgba(238, 236, 236, 0.3);
   }
 
   .group:hover .\32xl\:group-hover\:border-badgeBg{
@@ -176849,7 +176849,7 @@ video {
   }
 
   .\32xl\:focus-within\:border-gradTop:focus-within{
-    border-color: rgba(255, 255, 255, 0.1);
+    border-color: rgba(238, 236, 236, 0.3);
   }
 
   .\32xl\:focus-within\:border-badgeBg:focus-within{
@@ -177301,7 +177301,7 @@ video {
   }
 
   .\32xl\:hover\:border-gradTop:hover{
-    border-color: rgba(255, 255, 255, 0.1);
+    border-color: rgba(238, 236, 236, 0.3);
   }
 
   .\32xl\:hover\:border-badgeBg:hover{
@@ -177753,7 +177753,7 @@ video {
   }
 
   .\32xl\:focus\:border-gradTop:focus{
-    border-color: rgba(255, 255, 255, 0.1);
+    border-color: rgba(238, 236, 236, 0.3);
   }
 
   .\32xl\:focus\:border-badgeBg:focus{
@@ -178505,7 +178505,7 @@ video {
   }
 
   .\32xl\:bg-gradTop{
-    background-color: rgba(255, 255, 255, 0.1);
+    background-color: rgba(238, 236, 236, 0.3);
   }
 
   .\32xl\:bg-badgeBg{
@@ -178957,7 +178957,7 @@ video {
   }
 
   .group:hover .\32xl\:group-hover\:bg-gradTop{
-    background-color: rgba(255, 255, 255, 0.1);
+    background-color: rgba(238, 236, 236, 0.3);
   }
 
   .group:hover .\32xl\:group-hover\:bg-badgeBg{
@@ -179409,7 +179409,7 @@ video {
   }
 
   .\32xl\:focus-within\:bg-gradTop:focus-within{
-    background-color: rgba(255, 255, 255, 0.1);
+    background-color: rgba(238, 236, 236, 0.3);
   }
 
   .\32xl\:focus-within\:bg-badgeBg:focus-within{
@@ -179861,7 +179861,7 @@ video {
   }
 
   .\32xl\:hover\:bg-gradTop:hover{
-    background-color: rgba(255, 255, 255, 0.1);
+    background-color: rgba(238, 236, 236, 0.3);
   }
 
   .\32xl\:hover\:bg-badgeBg:hover{
@@ -180313,7 +180313,7 @@ video {
   }
 
   .\32xl\:focus\:bg-gradTop:focus{
-    background-color: rgba(255, 255, 255, 0.1);
+    background-color: rgba(238, 236, 236, 0.3);
   }
 
   .\32xl\:focus\:bg-badgeBg:focus{
@@ -181103,8 +181103,8 @@ video {
   }
 
   .\32xl\:from-gradTop{
-    --tw-gradient-from: rgba(255, 255, 255, 0.1);
-    --tw-gradient-stops: var(--tw-gradient-from), var(--tw-gradient-to, rgba(255, 255, 255, 0));
+    --tw-gradient-from: rgba(238, 236, 236, 0.3);
+    --tw-gradient-stops: var(--tw-gradient-from), var(--tw-gradient-to, rgba(238, 236, 236, 0));
   }
 
   .\32xl\:from-badgeBg{
@@ -181558,8 +181558,8 @@ video {
   }
 
   .\32xl\:hover\:from-gradTop:hover{
-    --tw-gradient-from: rgba(255, 255, 255, 0.1);
-    --tw-gradient-stops: var(--tw-gradient-from), var(--tw-gradient-to, rgba(255, 255, 255, 0));
+    --tw-gradient-from: rgba(238, 236, 236, 0.3);
+    --tw-gradient-stops: var(--tw-gradient-from), var(--tw-gradient-to, rgba(238, 236, 236, 0));
   }
 
   .\32xl\:hover\:from-badgeBg:hover{
@@ -182013,8 +182013,8 @@ video {
   }
 
   .\32xl\:focus\:from-gradTop:focus{
-    --tw-gradient-from: rgba(255, 255, 255, 0.1);
-    --tw-gradient-stops: var(--tw-gradient-from), var(--tw-gradient-to, rgba(255, 255, 255, 0));
+    --tw-gradient-from: rgba(238, 236, 236, 0.3);
+    --tw-gradient-stops: var(--tw-gradient-from), var(--tw-gradient-to, rgba(238, 236, 236, 0));
   }
 
   .\32xl\:focus\:from-badgeBg:focus{
@@ -182380,7 +182380,7 @@ video {
   }
 
   .\32xl\:via-gradTop{
-    --tw-gradient-stops: var(--tw-gradient-from), rgba(255, 255, 255, 0.1), var(--tw-gradient-to, rgba(255, 255, 255, 0));
+    --tw-gradient-stops: var(--tw-gradient-from), rgba(238, 236, 236, 0.3), var(--tw-gradient-to, rgba(238, 236, 236, 0));
   }
 
   .\32xl\:via-badgeBg{
@@ -182744,7 +182744,7 @@ video {
   }
 
   .\32xl\:hover\:via-gradTop:hover{
-    --tw-gradient-stops: var(--tw-gradient-from), rgba(255, 255, 255, 0.1), var(--tw-gradient-to, rgba(255, 255, 255, 0));
+    --tw-gradient-stops: var(--tw-gradient-from), rgba(238, 236, 236, 0.3), var(--tw-gradient-to, rgba(238, 236, 236, 0));
   }
 
   .\32xl\:hover\:via-badgeBg:hover{
@@ -183108,7 +183108,7 @@ video {
   }
 
   .\32xl\:focus\:via-gradTop:focus{
-    --tw-gradient-stops: var(--tw-gradient-from), rgba(255, 255, 255, 0.1), var(--tw-gradient-to, rgba(255, 255, 255, 0));
+    --tw-gradient-stops: var(--tw-gradient-from), rgba(238, 236, 236, 0.3), var(--tw-gradient-to, rgba(238, 236, 236, 0));
   }
 
   .\32xl\:focus\:via-badgeBg:focus{
@@ -183472,7 +183472,7 @@ video {
   }
 
   .\32xl\:to-gradTop{
-    --tw-gradient-to: rgba(255, 255, 255, 0.1);
+    --tw-gradient-to: rgba(238, 236, 236, 0.3);
   }
 
   .\32xl\:to-badgeBg{
@@ -183836,7 +183836,7 @@ video {
   }
 
   .\32xl\:hover\:to-gradTop:hover{
-    --tw-gradient-to: rgba(255, 255, 255, 0.1);
+    --tw-gradient-to: rgba(238, 236, 236, 0.3);
   }
 
   .\32xl\:hover\:to-badgeBg:hover{
@@ -184200,7 +184200,7 @@ video {
   }
 
   .\32xl\:focus\:to-gradTop:focus{
-    --tw-gradient-to: rgba(255, 255, 255, 0.1);
+    --tw-gradient-to: rgba(238, 236, 236, 0.3);
   }
 
   .\32xl\:focus\:to-badgeBg:focus{
@@ -186223,7 +186223,7 @@ video {
   }
 
   .\32xl\:text-gradTop{
-    color: rgba(255, 255, 255, 0.1);
+    color: rgba(238, 236, 236, 0.3);
   }
 
   .\32xl\:text-badgeBg{
@@ -186675,7 +186675,7 @@ video {
   }
 
   .group:hover .\32xl\:group-hover\:text-gradTop{
-    color: rgba(255, 255, 255, 0.1);
+    color: rgba(238, 236, 236, 0.3);
   }
 
   .group:hover .\32xl\:group-hover\:text-badgeBg{
@@ -187127,7 +187127,7 @@ video {
   }
 
   .\32xl\:focus-within\:text-gradTop:focus-within{
-    color: rgba(255, 255, 255, 0.1);
+    color: rgba(238, 236, 236, 0.3);
   }
 
   .\32xl\:focus-within\:text-badgeBg:focus-within{
@@ -187579,7 +187579,7 @@ video {
   }
 
   .\32xl\:hover\:text-gradTop:hover{
-    color: rgba(255, 255, 255, 0.1);
+    color: rgba(238, 236, 236, 0.3);
   }
 
   .\32xl\:hover\:text-badgeBg:hover{
@@ -188031,7 +188031,7 @@ video {
   }
 
   .\32xl\:focus\:text-gradTop:focus{
-    color: rgba(255, 255, 255, 0.1);
+    color: rgba(238, 236, 236, 0.3);
   }
 
   .\32xl\:focus\:text-badgeBg:focus{
@@ -189729,15 +189729,15 @@ video {
   }
 
   .\32xl\:placeholder-gradTop::-moz-placeholder{
-    color: rgba(255, 255, 255, 0.1);
+    color: rgba(238, 236, 236, 0.3);
   }
 
   .\32xl\:placeholder-gradTop:-ms-input-placeholder{
-    color: rgba(255, 255, 255, 0.1);
+    color: rgba(238, 236, 236, 0.3);
   }
 
   .\32xl\:placeholder-gradTop::placeholder{
-    color: rgba(255, 255, 255, 0.1);
+    color: rgba(238, 236, 236, 0.3);
   }
 
   .\32xl\:placeholder-badgeBg::-moz-placeholder{
@@ -191085,15 +191085,15 @@ video {
   }
 
   .\32xl\:focus\:placeholder-gradTop:focus::-moz-placeholder{
-    color: rgba(255, 255, 255, 0.1);
+    color: rgba(238, 236, 236, 0.3);
   }
 
   .\32xl\:focus\:placeholder-gradTop:focus:-ms-input-placeholder{
-    color: rgba(255, 255, 255, 0.1);
+    color: rgba(238, 236, 236, 0.3);
   }
 
   .\32xl\:focus\:placeholder-gradTop:focus::placeholder{
-    color: rgba(255, 255, 255, 0.1);
+    color: rgba(238, 236, 236, 0.3);
   }
 
   .\32xl\:focus\:placeholder-badgeBg:focus::-moz-placeholder{
@@ -192718,7 +192718,7 @@ video {
   }
 
   .\32xl\:ring-gradTop{
-    --tw-ring-color: rgba(255, 255, 255, 0.1);
+    --tw-ring-color: rgba(238, 236, 236, 0.3);
   }
 
   .\32xl\:ring-badgeBg{
@@ -193170,7 +193170,7 @@ video {
   }
 
   .\32xl\:focus-within\:ring-gradTop:focus-within{
-    --tw-ring-color: rgba(255, 255, 255, 0.1);
+    --tw-ring-color: rgba(238, 236, 236, 0.3);
   }
 
   .\32xl\:focus-within\:ring-badgeBg:focus-within{
@@ -193622,7 +193622,7 @@ video {
   }
 
   .\32xl\:focus\:ring-gradTop:focus{
-    --tw-ring-color: rgba(255, 255, 255, 0.1);
+    --tw-ring-color: rgba(238, 236, 236, 0.3);
   }
 
   .\32xl\:focus\:ring-badgeBg:focus{
@@ -194228,7 +194228,7 @@ video {
   }
 
   .\32xl\:ring-offset-gradTop{
-    --tw-ring-offset-color: rgba(255, 255, 255, 0.1);
+    --tw-ring-offset-color: rgba(238, 236, 236, 0.3);
   }
 
   .\32xl\:ring-offset-badgeBg{
@@ -194592,7 +194592,7 @@ video {
   }
 
   .\32xl\:focus-within\:ring-offset-gradTop:focus-within{
-    --tw-ring-offset-color: rgba(255, 255, 255, 0.1);
+    --tw-ring-offset-color: rgba(238, 236, 236, 0.3);
   }
 
   .\32xl\:focus-within\:ring-offset-badgeBg:focus-within{
@@ -194956,7 +194956,7 @@ video {
   }
 
   .\32xl\:focus\:ring-offset-gradTop:focus{
-    --tw-ring-offset-color: rgba(255, 255, 255, 0.1);
+    --tw-ring-offset-color: rgba(238, 236, 236, 0.3);
   }
 
   .\32xl\:focus\:ring-offset-badgeBg:focus{

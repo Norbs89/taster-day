@@ -124,7 +124,7 @@
         alt="Homepage Banner"
         class="w-full h-96 object-cover"
       />
-      <section id="overlay" class="absolute top-0 h-full flex w-screen">
+      <section id="overlay" class="absolute top-0 h-full flex w-full">
         <div
           class="
             flex
@@ -375,8 +375,100 @@
         </div>
       </div>
     </section>
-    <section id="home-measure">Home measure section</section>
-    <section id="video">Full width video section</section>
+    <section id="home-measurement" class="relative border-b-12 border-red-600">
+      <img
+        src="./images/Bg.png"
+        alt="home measurement cover"
+        class="w-full object-cover"
+      />
+      <section
+        id="measure-overlay"
+        class="absolute top-0 grid grid-cols-6 w-full h-full"
+      >
+        <div
+          class="
+            col-start-2 col-span-2
+            h-2/3
+            bg-red-600
+            text-white
+            font-neue
+            px-8
+            shadow
+          "
+        >
+          <h3 class="text-4xl py-7">Free Home Measure</h3>
+          <p class="font-mainFont text-sm font-light pb-4">
+            We can arrange for one of our trusted traders to visit your home,
+            assess what you need and answer your questions.
+          </p>
+          <button
+            class="
+              font-mainFont font-bold
+              text-xs
+              border-2
+              rounded
+              py-2
+              px-4
+              flex
+              justify-evenly
+              items-center
+            "
+          >
+            <img
+              src="./icons/HM icon.svg"
+              alt="pen and paper icon"
+              class="h-5 pr-4"
+            />
+            Book Home Measure
+          </button>
+        </div>
+      </section>
+    </section>
+    <section id="video" class="bg-black relative">
+      <img
+        src="./images/video.png"
+        alt="video thumbnail large"
+        class="w-2/3 h-auto mx-auto"
+      />
+      <section id="video-overlay" class="absolute top-0 w-full h-full">
+        <div
+          class="
+            grid grid-cols-3 grid-rows-3
+            bg-gradient-to-t
+            from-black
+            via-gradTop
+            w-2/3
+            h-full
+            mx-auto
+          "
+        >
+          <button class="col-start-2 row-start-2 max-w-max mx-auto">
+            <img
+              src="./icons/Playhead Lg.svg"
+              alt="play button"
+              class="h-2/5"
+            />
+          </button>
+          <div
+            class="
+              bg-black
+              h-2/3
+              col-start-2
+              row-start-3
+              border-b-4 border-red-600
+              flex flex-col
+              justify-center
+              items-center
+            "
+          >
+            <img src="./icons/Stars.svg" alt="star rating" class="w-1/4 pb-2" />
+            <h4 class="font-neue text-white text-3xl font-semibold">
+              Quality & service
+            </h4>
+          </div>
+        </div>
+      </section>
+    </section>
     <section id="cta">Further CTA's section</section>
     <footer id="footer">Footer</footer>
   </body>

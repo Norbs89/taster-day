@@ -10,6 +10,12 @@ Given that the project is built with HTML only there are no re-usable components
 
 # Version History
 
+## Version 0.6.0
+
+- Home Measurements section is created & styled.
+- Video section is created & styled.
+- Assets for Home measurements & video sections are uploaded.
+
 ## Version 0.4.0
 
 - Full product range section is created & styled.
