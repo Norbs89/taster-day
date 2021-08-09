@@ -645,15 +645,9 @@ video {
 }
 
 .bar-icon {
-  margin-right: 0.25rem;
+  margin-right: 0.5rem;
   display: inline-block;
   height: 1.25rem;
-}
-
-@media (min-width: 1024px){
-  .bar-icon{
-    height: auto;
-  }
 }
 
 .bar-item {

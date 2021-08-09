@@ -10,6 +10,10 @@ Given that the project is built with HTML only there are no re-usable components
 
 # Version History
 
+## Version 0.8.1
+
+- Header styling has been refactored to better match the design template.
+
 ## Version 0.8.0
 
 - Footer section is created & styled.

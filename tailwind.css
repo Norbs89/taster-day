@@ -6,7 +6,7 @@
 
 @layer components {
   .bar-icon {
-    @apply inline-block mr-1 h-5 lg:h-auto;
+    @apply inline-block mr-2 h-5;
   }
   .bar-item {
     @apply flex items-center;
