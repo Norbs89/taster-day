@@ -401,19 +401,7 @@
             We can arrange for one of our trusted traders to visit your home,
             assess what you need and answer your questions.
           </p>
-          <button
-            class="
-              font-mainFont font-bold
-              text-xs
-              border-2
-              rounded
-              py-2
-              px-4
-              flex
-              justify-evenly
-              items-center
-            "
-          >
+          <button class="red-button">
             <img
               src="./icons/HM icon.svg"
               alt="pen and paper icon"
@@ -469,7 +457,52 @@
         </div>
       </section>
     </section>
-    <section id="cta">Further CTA's section</section>
+    <section id="footer-blocks" class="h-80 bg-red-600 flex">
+      <div id="footer-cards" class="grid grid-cols-3 gap-10 w-2/3 m-auto pt-5">
+        <div class="relative shadow text-white">
+          <img
+            src="images/footer-blocks/brochure.png"
+            alt="brochure"
+            class="w-full h-48 object-cover"
+          />
+          <div class="absolute -top-8">
+            <h4 class="footer-block-title">Latest brochure</h4>
+            <button class="red-button bg-red-600 m-2">
+              Get the brochure
+              <img src="./icons/next.svg" alt="right arrow" class="h-3 pl-1" />
+            </button>
+          </div>
+        </div>
+        <div class="relative shadow text-white">
+          <img
+            src="images/footer-blocks/trader.png"
+            alt="trader"
+            class="w-full h-48 object-cover"
+          />
+          <div class="absolute -top-8">
+            <h4 class="footer-block-title">Are you a trader?</h4>
+            <button class="red-button bg-red-600 m-2">
+              Apply for a trade account
+              <img src="./icons/next.svg" alt="right arrow" class="h-3 pl-1" />
+            </button>
+          </div>
+        </div>
+        <div class="relative shadow text-white">
+          <img
+            src="images/footer-blocks/gallery.png"
+            alt="gallery"
+            class="w-full h-48 object-cover"
+          />
+          <div class="absolute -top-8">
+            <h4 class="footer-block-title">Get inspired</h4>
+            <button class="red-button bg-red-600 m-2">
+              View gallery
+              <img src="./icons/next.svg" alt="right arrow" class="h-3 pl-1" />
+            </button>
+          </div>
+        </div>
+      </div>
+    </section>
     <footer id="footer">Footer</footer>
   </body>
 </html>

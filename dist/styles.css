@@ -719,6 +719,36 @@ video {
   color: rgba(220, 38, 38, var(--tw-text-opacity));
 }
 
+.red-button {
+  display: flex;
+  align-items: center;
+  justify-content: space-evenly;
+  border-radius: 0.25rem;
+  border-width: 2px;
+  padding-left: 1rem;
+  padding-right: 1rem;
+  padding-top: 0.5rem;
+  padding-bottom: 0.5rem;
+  font-family: Montserrat, sans-serif;
+  font-size: 0.75rem;
+  line-height: 1rem;
+  font-weight: 700;
+}
+
+.footer-block-title {
+  --tw-bg-opacity: 1;
+  background-color: rgba(0, 0, 0, var(--tw-bg-opacity));
+  padding-left: 1.25rem;
+  padding-right: 1.25rem;
+  padding-top: 1rem;
+  padding-bottom: 1rem;
+  text-align: center;
+  font-family: neue-kabel, sans-serif;
+  font-size: 1.875rem;
+  line-height: 2.25rem;
+  font-weight: 600;
+}
+
 .sr-only{
   position: absolute;
   width: 1px;

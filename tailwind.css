@@ -48,4 +48,25 @@
     font-bold
     text-red-600;
   }
+
+  .red-button {
+    @apply font-mainFont font-bold
+    text-xs
+    border-2
+    rounded
+    py-2
+    px-4
+    flex
+    justify-evenly
+    items-center;
+  }
+
+  .footer-block-title {
+    @apply bg-black
+    font-neue font-semibold
+    text-3xl
+    px-5
+    py-4
+    text-center;
+  }
 }

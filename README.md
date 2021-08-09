@@ -10,6 +10,11 @@ Given that the project is built with HTML only there are no re-usable components
 
 # Version History
 
+## Version 0.7.0
+
+- Footer blocks section is created & styled.
+- Assets for Footer blocks section are uploaded.
+
 ## Version 0.6.0
 
 - Home Measurements section is created & styled.
